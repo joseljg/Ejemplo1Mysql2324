@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1055563342017",
+    "project_id": "ejemplo1mysql2324",
+    "storage_bucket": "ejemplo1mysql2324.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1055563342017:android:1c6d83b10a3998d9057440",
+        "android_client_info": {
+          "package_name": "es.joseljg.ejemplo1mysql2324"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZ7bTMEkNab5RHFwcfvyeLFdOEHbWDyII"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
